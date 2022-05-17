@@ -1,4 +1,6 @@
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86518008?v=4">
+<div style="background-color: red;">a</div>
+
+<img src="https://avatars.githubusercontent.com/u/86518008?v=4">
 
 <h1>Hi There!</h1>
 
