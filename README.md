@@ -18,3 +18,4 @@
 <h1>📊My Stats:</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesurPolat&layout=compact)
+![](https://komarev.com/ghpvc/?username=CesurPolat&style=flat-square)
