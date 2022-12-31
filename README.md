@@ -17,5 +17,5 @@
 </div> 
 <h1>📊My Stats:</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesurPolat&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=CesurPolat&theme=calm&hide_title=true&include_all_commits=true&show_icons=true)
 ![](https://komarev.com/ghpvc/?username=CesurPolat&style=flat-square)
